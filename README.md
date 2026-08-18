@@ -29,7 +29,7 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 | Nablas | Ing. Mecánica | CAS | Cálculos diferenciales mediante el operador nabla, el laplaciano y dobles integrales. (Enfocado al estudio de fluidos) |
 | matrix2list | - | HOME | Convierte matrices en listas. |
 | solve_all | - | CAS | Adaptación del Solve para no tener que especificar incógnitas. |
-| ADDONS-Vigas | Ing. Mecánica | ADDONS para la aplicación Vigas, concretamente simplificación mediante coeficientes de las matrices de rigidez de cada barra.
+| ADDONS-Vigas | Ing. Mecánica | CAS | ADDONS para la aplicación Vigas, concretamente simplificación mediante coeficientes de las matrices de rigidez de cada barra.
 
 *) **CAS / HOME**: Aclaración respecto a si se tratan de programas CAS ( Symbolic Calculus ), por lo que se han de emplear en la pantalla de cálculo [CAS] y las funciones se encuentran en [VARS] > CAS; o si se tratan de programas HOME, por lo que se han de emplear en la pantalla de [Home] y se encuentran en [_Toolbox_] > USER / USUARIO.
 
