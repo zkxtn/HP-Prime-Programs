@@ -7,10 +7,10 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 
 |  Nombre  |  Estudio  | CAS / Home * | Resumen |
 |  --------  | -------- | -------- | -------- |
-|  Inter_Lineal  | Cálculo | CAS | Otorga los valores de pendiente y corte con el eje vertical, al realizar una interpolación lineal de los valores de X e Y proporcionados. |
-|  inter_pura  | Cálculo | CAS | Otorga la función resultante tras realizar una interpolación pura de los valores de X e Y proporcionados. |
-| CEMM | Ing. Mecánica | HOME | Conjunto de cálculos relacionados con el estudio de materiales. (Estudios de grietas, cálculos de temperaturas austeníticas y martensíticas, durezas, difusión y distancia de jominy) |
-| CEMM II | Ing. Mecánica | HOME | Conjunto de cálculos relacionados con el estudio de la rigidez de materiales, concretamente realiza tablas de Weibull, conversiones de módulos de Young (para fibras), conversión de fracción de peso a volumétrica. |
+|  [Inter_Lineal](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Inter_Lineal)  | Cálculo | CAS | Otorga los valores de pendiente y corte con el eje vertical, al realizar una interpolación lineal de los valores de X e Y proporcionados. |
+|  [inter_pura](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/inter_pura)  | Cálculo | CAS | Otorga la función resultante tras realizar una interpolación pura de los valores de X e Y proporcionados. |
+| [CEMM](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/CEMM) | Ing. Mecánica | HOME | Conjunto de cálculos relacionados con el estudio de materiales. (Estudios de grietas, cálculos de temperaturas austeníticas y martensíticas, durezas, difusión y distancia de jominy) |
+| [CEMM II](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/CEMMII) | Ing. Mecánica | HOME | Conjunto de cálculos relacionados con el estudio de la rigidez de materiales, concretamente realiza tablas de Weibull, conversiones de módulos de Young (para fibras), conversión de fracción de peso a volumétrica. |
 |  Rotacion  | Ing. Mecánica | CAS | Conjunto de cálculos para la determinación de matrices de rotación. |
 |  Descomposicion Tensorial  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con la descomposición de tensores (3x3) en Simétrico y Anti-simétrico. |
 |  Transformar Coordenadas  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con el cambio de base de tensores (3x3). |
