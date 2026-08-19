@@ -11,11 +11,11 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 |  [inter_pura](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/inter_pura)  | Cálculo | CAS | Otorga la función resultante tras realizar una interpolación pura de los valores de X e Y proporcionados. |
 | [CEMM](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/CEMM) | Ing. Mecánica | HOME | Conjunto de cálculos relacionados con el estudio de materiales. (Estudios de grietas, cálculos de temperaturas austeníticas y martensíticas, durezas, difusión y distancia de jominy) |
 | [CEMM II](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/CEMMII) | Ing. Mecánica | HOME | Conjunto de cálculos relacionados con el estudio de la rigidez de materiales, concretamente realiza tablas de Weibull, conversiones de módulos de Young (para fibras), conversión de fracción de peso a volumétrica. |
-|  Rotacion  | Ing. Mecánica | CAS | Conjunto de cálculos para la determinación de matrices de rotación. |
-|  Descomposicion Tensorial  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con la descomposición de tensores (3x3) en Simétrico y Anti-simétrico. |
-|  Transformar Coordenadas  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con el cambio de base de tensores (3x3). |
+|  [Rotacion](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Rotacion)  | Ing. Mecánica | CAS | Conjunto de cálculos para la determinación de matrices de rotación. |
+|  [Descomposición Tensorial](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/DescTens)  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con la descomposición de tensores (3x3) en Simétrico y Anti-simétrico. |
+|  [Transformar Coordenadas](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Transformar_Coordenadas)  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con el cambio de base de tensores (3x3). |
 |  DefInf  | Ing. Mecánica | CAS | Matriz de deformación infinitesimal. |
-|  Descomposicion Polar  | Ing. Mecánica | CAS | Descomposición polar de Tensores. |
+|  Descomposición Polar  | Ing. Mecánica | CAS | Descomposición polar de Tensores. |
 |  EAlmansi  | Ing. Mecánica | CAS | Matriz de deformación de Almansi. |
 |  EGL  | Ing. Mecánica | CAS | Matriz de deformación de Green-Lagrange. |
 |  Tensor Gradiente Deformacion  | Ing. Mecánica | CAS | Tensor Gradiente Deformacion. |
