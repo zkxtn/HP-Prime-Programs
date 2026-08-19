@@ -14,21 +14,21 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 |  [Rotacion](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Rotacion)  | Ing. Mecánica | CAS | Conjunto de cálculos para la determinación de matrices de rotación. |
 |  [Descomposición Tensorial](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/DescTens)  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con la descomposición de tensores (3x3) en Simétrico y Anti-simétrico. |
 |  [Transformar Coordenadas](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Transformar_Coordenadas)  | Ing. Mecánica | CAS | Conjunto de cálculos relacionados con el cambio de base de tensores (3x3). |
-|  DefInf  | Ing. Mecánica | CAS | Matriz de deformación infinitesimal. |
-|  Descomposición Polar  | Ing. Mecánica | CAS | Descomposición polar de Tensores. |
-|  EAlmansi  | Ing. Mecánica | CAS | Matriz de deformación de Almansi. |
-|  EGL  | Ing. Mecánica | CAS | Matriz de deformación de Green-Lagrange. |
-|  Tensor Gradiente Deformacion  | Ing. Mecánica | CAS | Tensor Gradiente Deformacion. |
-|  Tensor Gradiente Espacial  | Ing. Mecánica | CAS | Tensor Gradiente Espacial. |
-|  Tensor Gradiente Material  | Ing. Mecánica | CAS | Tensor Gradiente Material. |
-|  Invariantes  | Ing. Mecánica | CAS | Determinación de los invariantes de un tensor. Descomposición de un tensor en Esférico y Desviador. |
-| Capa Límite Plana | Ing. Mecánica | HOME | Cálculos relacionados con la capa límite plana en fluidos. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
-| Flujo Compresible | Ing. Mecánica | HOME | Cálculos relacionados con el flujo compresible en toberas convergentes-divergentes. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
-| Instalaciones | Ing. Mecánica | HOME | Cálculos relacionados con el flujo en instalaciones hidráulicas formadas por tuberías. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
-| Maquinas Hidraulicas | Ing. Mecánica | HOME | Cálculos relacionados con el flujo en bombas de alabes. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
-| Nablas | Ing. Mecánica | CAS | Cálculos diferenciales mediante el operador nabla, el laplaciano y dobles integrales. (Enfocado al estudio de fluidos) |
+|  [DefInf](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/DefInf)  | Ing. Mecánica | CAS | Matriz de deformación infinitesimal. |
+|  [Descomposición Polar](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/DescPolar)  | Ing. Mecánica | CAS | Descomposición polar de Tensores. |
+|  [EAlmansi](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Tensores_ELA)  | Ing. Mecánica | CAS | Matriz de deformación de Almansi. |
+|  [EGL](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Tensores_ELA)  | Ing. Mecánica | CAS | Matriz de deformación de Green-Lagrange. |
+|  [Tensor Gradiente Deformacion](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Tensores_ELA)  | Ing. Mecánica | CAS | Tensor Gradiente Deformacion. |
+|  [Tensor Gradiente Espacial ](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Tensores_ELA) | Ing. Mecánica | CAS | Tensor Gradiente Espacial. |
+|  [Tensor Gradiente Material](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Tensores_ELA)  | Ing. Mecánica | CAS | Tensor Gradiente Material. |
+|  [Invariantes](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Invariantes)  | Ing. Mecánica | CAS | Determinación de los invariantes de un tensor. Descomposición de un tensor en Esférico y Desviador. |
+| [Capa Límite Plana](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Capa_Limite_Plana) | Ing. Mecánica | HOME | Cálculos relacionados con la capa límite plana en fluidos. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
+| [Flujo Compresible](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Flujo_Compresible) | Ing. Mecánica | HOME | Cálculos relacionados con el flujo compresible en toberas convergentes-divergentes. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
+| [Instalaciones](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Instalaciones) | Ing. Mecánica | HOME | Cálculos relacionados con el flujo en instalaciones hidráulicas formadas por tuberías. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
+| [Maquinas Hidráulicas](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Maq_Hidraulicas) | Ing. Mecánica | HOME | Cálculos relacionados con el flujo en bombas de alabes. (Permite variables, los resultados son ecuaciones igualadas a 0.) |
+| [Nablas](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Nablas) | Ing. Mecánica | CAS | Cálculos diferenciales mediante el operador nabla, el laplaciano y dobles integrales. (Enfocado al estudio de fluidos) |
 | matrix2list | - | HOME | Convierte matrices en listas. |
-| solve_all | - | CAS | Adaptación del Solve para no tener que especificar incógnitas. |
+| [solve_all](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/SolveAll) | - | CAS | Adaptación del Solve para no tener que especificar incógnitas. |
 | ADDONS-Vigas | Ing. Mecánica | CAS | ADDONS para la aplicación Vigas, concretamente simplificación mediante coeficientes de las matrices de rigidez de cada barra.
 
 *) **CAS / HOME**: Aclaración respecto a si se tratan de programas CAS ( Symbolic Calculus ), por lo que se han de emplear en la pantalla de cálculo [CAS] y las funciones se encuentran en [VARS] > CAS; o si se tratan de programas HOME, por lo que se han de emplear en la pantalla de [Home] y se encuentran en [_Toolbox_] > USER / USUARIO.
