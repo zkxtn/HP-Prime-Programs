@@ -45,7 +45,7 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 
 |  Icon  |  Nombre  |  Estudio  | Resumen |
 | ------  |  --------  | -------- | -------- |
-|<img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/227be7c2-7bb7-4ee0-946f-a037ad8af119" /> | Skinny | Ing. Mecánica | Estudio de la flexión de placas planas mediante Navier y Levy |
+|<img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/227be7c2-7bb7-4ee0-946f-a037ad8af119" /> | [Skinny](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Skinny) | Ing. Mecánica | Estudio de la flexión de placas planas mediante Navier y Levy |
 |<img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/227be7c2-7bb7-4ee0-946f-a037ad8af119" /> | Skinny 3D | Ing. Mecánica | Estudio de la flexión de placas planas mediante Navier y Levy. Representación 3D de la placa.  |
 | <img width="36" height="38" alt="icon" src="https://github.com/user-attachments/assets/6084d52d-26be-47c5-a237-f3645453884a" /> |  [Vigas](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Vigas)  | Ing. Mecánica | Cálculo matricial de la rigidez de estructuras en 2D (considerando momentos flectores, giros e inercias), concretamente armaduras, vigas y pórticos. |
 | <img width="36" height="38" alt="icon" src="https://github.com/user-attachments/assets/e6ddd5d7-9329-41bc-b874-8aa336551efd" />  |  [MEFI](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/MEFI)  | Ing. Mecánica | Cálculo matricial de la rigidez de estructuras en 2D. (Version reducida de Vigas) |
