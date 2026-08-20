@@ -1,3 +1,5 @@
+<img width="1280" height="576" alt="IMG_20260820_181658 (Personalizado)" src="https://github.com/user-attachments/assets/421d1f52-205c-453b-9ee1-1f0e55da4ed8" />
+
 # HP Prime Apps & Programs
 **Resumen:** Este repositorio contiene diversos programas diseñados para la HP Prime G2 focalizados en diversos ámbitos principalmente relacionados con la ingeniería mecánica y electrónica.
 
