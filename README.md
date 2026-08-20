@@ -51,7 +51,7 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 | <img width="36" height="38" alt="icon" src="https://github.com/user-attachments/assets/e6ddd5d7-9329-41bc-b874-8aa336551efd" />  |  [MEFI](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/MEFI)  | Ing. Mecánica | Cálculo matricial de la rigidez de estructuras en 2D. (Version reducida de Vigas) |
 | <img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/6695c846-1162-4d1d-8eb8-43b817792daa" /> |  2D PTV  | Ing. Mecánica | Cálculos matriciales relacionados con la aplicación del Principio de Trabajos Virtuales en 2D, mediante la definición de 3 puntos. |
 | <img width="36" height="38" alt="icon" src="https://github.com/user-attachments/assets/6084d52d-26be-47c5-a237-f3645453884a" />  |  PTV  | Ing. Mecánica | Obtener la energía potencial (elástica) de barras en 2D, mediante el principio de trabajos virtuales. Resolver desplazamientos y reacciones de barras. |
-| <img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/72860f48-a367-4f6a-b9ad-41af9679307b" />  |  CocaCola  | Ing. Mecánica | Cálculos relacionados con instalaciones hidráulicas con tuberías con conexiones en serie y/o paralelo. |
+| <img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/72860f48-a367-4f6a-b9ad-41af9679307b" />  |  [CocaCola](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/CocaCola)  | Ing. Mecánica | Cálculos relacionados con instalaciones hidráulicas con tuberías con conexiones en serie y/o paralelo. |
 
 ____
 
