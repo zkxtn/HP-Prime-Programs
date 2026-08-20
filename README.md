@@ -43,6 +43,8 @@ Estos programas fueron programados como recurso durante mi aprendizaje de las do
 
 ## Aplicaciones
 
+_Disclaimer: Hay que descomprimir los archivos zip y meter en la HP TODA la carpeta **.hpapppdir**_
+
 |  Icon  |  Nombre  |  Estudio  | Resumen |
 | ------  |  --------  | -------- | -------- |
 |<img width="38" height="38" alt="icon" src="https://github.com/user-attachments/assets/227be7c2-7bb7-4ee0-946f-a037ad8af119" /> | [Skinny](https://github.com/zkxtn/HP-Prime-Programms/releases/tag/Skinny) | Ing. Mecánica | Estudio de la flexión de placas planas mediante Navier y Levy |
