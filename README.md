@@ -65,7 +65,7 @@ ____
 1. Calculadora HP Prime (obviously)
 2. Cable micro USB (el de cargar la Hp)
 3. Un ordenador
-4. El programa Hp Connectivity Kit de HP ( Consíguelo en: https://hpcalcs.com/download/)
+4. El programa Hp Connectivity Kit de HP ( Consíguelo en: https://updates.moravia-consulting.com/ o https://hpcalcs.com/download/)
 5. Saber arrastrar archivos.
 
 ### Tutorial
